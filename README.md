@@ -1,5 +1,6 @@
 # [Online Preview](https://nervous-montalcini-18a030.netlify.app/)
 
+Please note, that API Key used in this project is locked only to localhost:3000, and preview website
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
